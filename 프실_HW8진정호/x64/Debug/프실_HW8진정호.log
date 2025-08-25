@@ -1,0 +1,28 @@
+﻿  프실HW8_1976036_진정호.c
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(73,4): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(75,8): warning C4013: 'strstr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(80,18): warning C4013: 'strtok'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(84,9): warning C4013: 'strchr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(86,6): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(87,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(92,6): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(94,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(101,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(108,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(111,14): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(115,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(121,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(127,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(177,36): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(181,36): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(204,20): warning C4047: '함수': 'element'의 간접 참조 수준이 'Id (*)[100]'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(204,17): warning C4024: 'dinsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(211,22): warning C4047: '함수': 'element'의 간접 참조 수준이 'char [30]'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(211,18): warning C4024: 'dinsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(215,22): warning C4133: '함수': 'char [30]'과(와) 'DListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(219,21): warning C4047: '함수': 'element'의 간접 참조 수준이 'char [30]'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(219,17): warning C4024: 'search': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(80,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(173,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자료구조\C언어로 쉽게 풀어쓴 자료구조(개정3판) 보조자료\소스\chap07\프실HW8_1976036_진정호.c(43): warning C4716: 'search': 값을 반환해야 합니다.
+  프실_HW8진정호.vcxproj -> C:\Users\user\source\repos\프실_HW8진정호\x64\Debug\프실_HW8진정호.exe
