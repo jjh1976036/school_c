@@ -1,0 +1,16 @@
+﻿  프실기말pj_1976036_진정호.c
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(86,25): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char [30][30]'과(와) 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(86,21): warning C4024: 'puts': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(97,36): warning C4133: '함수': 'int *'과(와) 'const fpos_t *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(100,21): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(114,29): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(126,29): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(140,52): warning C4047: '함수': 'const char *(*)[30]'의 간접 참조 수준이 'char [30][30]'과(와) 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(140,48): warning C4024: 'score': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(147,26): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'const char *(*)[30]'과(와) 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(147,25): warning C4024: 'strncmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(147,29): warning C4133: '함수': 'FILE *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(151,26): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'const char *(*)[30]'과(와) 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(151,25): warning C4024: 'strncmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\프실기말pj_1976036_진정호\프실기말pj_1976036_진정호.c(151,29): warning C4133: '함수': 'FILE *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+  프실기말pj_1976036_진정호.vcxproj -> C:\Users\user\source\repos\프실기말pj_1976036_진정호\x64\Debug\프실기말pj_1976036_진정호.exe
